@@ -46,7 +46,7 @@ logo = """
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mRANARAJPOOT
 \033[1;96mYouTube \033[1;93m: \033[1;92mRDX ADAN
-\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/lovehacker/love
+\033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Usman132/RANA-RAJPOOT.git
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/subhan.shahzad.52012
 \033[1;91m======================================="""
 def tik():
