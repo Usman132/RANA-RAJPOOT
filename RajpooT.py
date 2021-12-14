@@ -37,14 +37,14 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
+/////////////////////////////////////////////////
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
    RANA RAJPOOT
-   ▄︻̷̿┻̿═━一
-   THE LEGEND ℒℴνℯ
    THE GAME CHANGER ꧁༒☬𝓡𝓐𝓝𝓐 𝓡𝓐𝓙𝓟𝓞𝓞𝓣☬༒꧂
    RANA RAJPOOT
    𝓡𝓐𝓝𝓐 𝓡𝓐𝓙𝓟𝓞𝓞𝓣 ▄︻̷̿┻̿═━一
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRANARAJPOOT
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRANA RAJPOOT
 \033[1;96mGitHub  \033[1;93m: \033[1;92mhttps://github.com/Usman132/RANA-RAJPOOT.git
 \033[1;96mBlogger \033[1;93m: \033[1;92mhttps://www.facebook.com/subhan.shahzad.52012
 \033[1;91m======================================="""
